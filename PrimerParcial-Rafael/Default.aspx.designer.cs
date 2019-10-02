@@ -11,7 +11,7 @@ namespace PrimerParcial_Rafael
 {
 
 
-    public partial class _Default
+    public partial class Default
     {
     }
 }
