@@ -33,5 +33,11 @@ namespace PrimerParcial_Rafael.UI.Registros
         {
 
         }
+
+
+        protected void RemoveLinkButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

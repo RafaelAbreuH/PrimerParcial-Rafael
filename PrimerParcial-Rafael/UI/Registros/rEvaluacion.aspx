@@ -6,7 +6,7 @@
 
     <div class="container">
         <div class="panel panel-primary">
-            <div class="panel-heading">Primer Parcial Segunda Oportunidad</div>
+            <div class="panel-heading">Primer Parcial</div>
             <div class="panel-body">
                 <div class="form-horizontal col-md-12" role="form">
                     <%--ID--%>
@@ -17,9 +17,6 @@
                         </div>
                          <%--Boton buscar--%>
                         <asp:Button class="col-md-1 btn btn-info btn-sm" ID="BuscarButton" runat="server" Text="Buscar" OnClick="BuscarButton_Click" />
-                        <div> 
-                         <asp:Button class="btn btn-info btn-sm" ID="AgregarButton" runat="server" Text="Agregar" OnClick="AgregarButton_Click" />
-                        </div>
 
                           <%-- Grid --%>
                             <asp:GridView ID="GridView"

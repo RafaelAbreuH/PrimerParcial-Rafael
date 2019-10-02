@@ -34,14 +34,14 @@
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Registros
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="/UI/Registros/RegistrosEvaluacion.aspx">REvaluacion</a>
+                                <a class="dropdown-item" href="/UI/Registros/rEvaluacion.aspx">REvaluacion</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Consultas
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="//Consultas/RegistrosEvaluacion.aspx">CEvaluacion</a>
+                                <a class="dropdown-item" href="/Consultas/RegistrosEvaluacion.aspx">CEvaluacion</a>
                             </div>
                         </li>
                     </ul>
